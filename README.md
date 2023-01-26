@@ -7,4 +7,4 @@ mini profile card - animated - html+css+js
 
 ![preview.png](https://github.com/Joni92/profileCards03/blob/main/previews/preview01.png)
 
-![preview.png](https://github.com/Joni92/profileCards03/blob/main/preview02.png)
+![preview.png](https://github.com/Joni92/profileCards03/blob/main/previews/preview02.png)
